@@ -12,7 +12,7 @@ function loadDoc(url, cFunction1, cFunction2) {
 
     }
   };
-  xhttp.open("POST", url, true);
+  xhttp.open("GET", url, true);
   xhttp.send();
 }
 loadDoc("data.json",videoParse,insertData);
