@@ -196,8 +196,8 @@ for( i = (page-1)*maxVideoNumberPerPage ; i< Math.min(page * maxVideoNumberPerPa
     span_en.classList.add("label");
     span_en.classList.add("label-warning");
     span_ch.classList.add("label");
-    span_en.innerHTML="ÃÀ‡øÇ»";
-    span_ch.innerHTML="ÖÐÎÄ";
+    span_en.innerHTML="ç¾Žåœ‹è…”";
+    span_ch.innerHTML="ä¸­æ–‡";
 
 
     a1.appendChild(h5);
