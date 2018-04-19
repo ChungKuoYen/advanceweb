@@ -15,6 +15,6 @@ function loadDoc2(url, cFunction1,cFunction2,cFunction3) {
 
     }
   };
-  xhttp.open("POST", url, true);
+  xhttp.open("GET", url, true);
   xhttp.send();
 }
